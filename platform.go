@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-// +gen slice:"Where,Count,GroupBy[string]"
+// +gen  slice:"Where,Count,GroupBy[string],Aggregate[string]"
 type Platform struct {
 	Name    string                 `json:"name"`
 	Version string                 `json:"version"`

@@ -2,8 +2,12 @@ github.com/clipperhouse/fsnotify v1.1.0 h1:1y4YdnpehvsZjcBAsB11NTAxTnosrNYkLrNu1
 github.com/clipperhouse/fsnotify v1.1.0/go.mod h1:02cAp0ulHiqd5NMAwSbW7csg6TnVUFkK+o9CYfkAKYs=
 github.com/clipperhouse/gen v4.1.1+incompatible h1:D3z+DxBhPjKZVDL3E5/bYLeO4jOHV4L/Xy3vFZmQtW8=
 github.com/clipperhouse/gen v4.1.1+incompatible/go.mod h1:UwqyCrDHGyDt5Tt7x7Ca+A5lqeqeVEJUquFvJ4ttY3Y=
+github.com/clipperhouse/setwriter v0.0.0-20200110222355-ab7a980082f0 h1:B8aGW1FR0bPAcfP2aboyWSWjDTDcU4NuwFCPAq3i+w8=
+github.com/clipperhouse/setwriter v0.0.0-20200110222355-ab7a980082f0/go.mod h1:KQEdsuRK5ZSWgEZUC36VHXD2qMxzRXpKIthCxhwc400=
 github.com/clipperhouse/slice v0.0.0-20200107170738-a74fc3888fd9 h1:98FuFIacIB6rKfxodqagVhwLsrKEjve2T8l6O0oYjsM=
 github.com/clipperhouse/slice v0.0.0-20200107170738-a74fc3888fd9/go.mod h1:SYNbTtqlzmDAa8k/IZo8rBZrLHdB19cwOtJ6ySOwQZ4=
+github.com/clipperhouse/stringer v0.0.0-20200107165315-e8ef8175ba3b h1:YnvS5xvtmKSUlkH91qF6HKRlSK27qI8U+1Kl1EsiRKY=
+github.com/clipperhouse/stringer v0.0.0-20200107165315-e8ef8175ba3b/go.mod h1:dKiI12fHMknvyIFKvze6MRYQJCYOZ8Onjsvpw5byYrc=
 github.com/clipperhouse/typewriter v0.0.0-20200107164453-d21420026310 h1:IC0Ywh01N6qQ+jT87vS4zhVsrE1q3829nVMQwz7PF3o=
 github.com/clipperhouse/typewriter v0.0.0-20200107164453-d21420026310/go.mod h1:GbdR1VEFLckXDXyXO3pn/lERXrQLVOI9j1Fly05g32I=
 github.com/yuin/goldmark v1.2.1/go.mod h1:3hX8gzYuyVAZsxl0MRgGTJEmQBFcNTphYh9decYSb74=

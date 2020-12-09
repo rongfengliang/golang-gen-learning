@@ -1,7 +1,7 @@
 package main
 
 import (
-	"fmt"
+	"log"
 	"strings"
 )
 
@@ -31,6 +31,21 @@ func main() {
 		return false
 	})
 	for _, item := range newItems {
-		fmt.Printf("%s", item)
+		log.Printf("%s", item)
+	}
+	myUserSets := NewMyUserSet([]MyUser{
+		{
+			Name: "dalong",
+			Age:  333,
+		},
+		{
+			Name: "dalong2",
+			Age:  44,
+		},
+	}...)
+
+	lists := myUserSets.ToSlice()
+	for _, item := range lists {
+		log.Printf("%s", item)
 	}
 }
